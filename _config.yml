@@ -62,11 +62,11 @@ disqus_username: chuyingjun
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 0b365cb71200db9b1ade                            #生成的clientID
-  clientSecret: 47884b65cf4c06ce59d7d7e8611f8801e7783d76    #生成的clientSecret
+  clientID: 7cb1d8856e1da28e1dd1                            #生成的clientID
+  clientSecret: a6b95c1fa01525727d39fadf84821e4ca705197b    #生成的clientSecret
   repo: chuyingjun.github.io    #仓库名称
   owner: chuyingjun    #github用户名
-  admin: chuyingjun
+  admin: ['chuyingjun']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+friend: [
     # {
     #    title: "简书·CYJ",
     #    href: "https://www.jianshu.com/u/31384f7f09c6"
