@@ -1,6 +1,6 @@
 # Site settings
 title: CYJ Blog
-SEOTitle: 储颖君的博客 | BY Blog
+SEOTitle: 储颖君的博客 | CYJ Blog
 header-img: img/post-bg-desk.jpg
 email: chu-yingjun@163.com
 description: "Every failure is leading towards success."
@@ -62,11 +62,11 @@ disqus_username: chuyingjun
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 0b365cb71200db9b1ade                            #生成的clientID
+  clientSecret: 47884b65cf4c06ce59d7d7e8611f8801e7783d76    #生成的clientSecret
+  repo: chuyingjun.github.io    #仓库名称
+  owner: chuyingjun    #github用户名
+  admin: chuyingjun
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
